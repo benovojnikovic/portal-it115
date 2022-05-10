@@ -4,7 +4,7 @@
 
 html {
     background-color: darkcyan;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -43,7 +43,7 @@ a {
 
 a:hover {
     color: whitesmoke;
-    background-color: darkcyan;
+    background-color: gray;
     text-decoration: none;
 }
 
